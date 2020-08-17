@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hey, nice to meet you I'm Joe 👋😊
 
-<!--
-**Joe-Bevan/Joe-Bevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Little bit about me: 
+- 💻 At heart I'm a C++ developer, but I work with C# and Javascript occasionally.
+- 📚 I'm a final year student studying Game Engine Programming at Staffordshire University 
+- 🧠 Always interested in learing new skills. Currently teaching myself electronics and embedded systems ⚡
+- 🎯 Goals: 
+    - Get a deeper fundamental understanding of C++ and look into the assembly language
+    - Undertake more projects and populate my portfolio more
+- 🕹 In my spare time I play video games or edit videos 🎬
+<br>
 
-Here are some ideas to get you started:
+## Languages and software:
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
+<img align="left" alt="C#" width="31px" src="https://www.cnjobs.dk/drupal/sites/default/files/2019-01/csharp-01.png">
+<img align="left" alt="VSCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png">
+<img align="left" alt="VS" width="26px" src="https://www.jing.fm/clipimg/full/234-2348203_visual-studio-2019-icon.png">
+<img align="left" alt="Windows" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Windows_logo_%E2%80%93_2012_%28dark_blue%29.svg/480px-Windows_logo_%E2%80%93_2012_%28dark_blue%29.svg.png">
+<img align="left" alt="Ubuntu" width="26px" src="https://cdn1.iconfinder.com/data/icons/system-shade-circles/512/ubuntu-512.png">
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+
+[<img align="left" alt="Twitter" width="22px" src="https://www.wan-ifra.org/sites/default/files/imagecache/field_media_image_image_body/field_media_image_file/Twitter_logo_blue.png" />][twitter]
+[<img align="left" alt="Linkedin" width="22px" src="https://lh3.googleusercontent.com/fqYJHtyzZzA4vacRzeJoB93QNvA5-mvR-8UB5oVLxdYDSTpfLp_KgYD4IqVGJUgFEJo" />][linkedin]
+[<img align="left" alt="website" width="22px" src="https://img.icons8.com/all/500/domain.png" />][website]
+
+[twitter]: https://twitter.com/JoeBevan_
+[linkedin]: https://www.linkedin.com/in/joe-bevan-247764174/
+[website]: https://joe-bevan.github.io/
