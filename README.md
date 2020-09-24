@@ -23,7 +23,7 @@
 
 [<img align="left" alt="Twitter" width="22px" src="https://www.wan-ifra.org/sites/default/files/imagecache/field_media_image_image_body/field_media_image_file/Twitter_logo_blue.png" />][twitter]
 [<img align="left" alt="Linkedin" width="22px" src="https://lh3.googleusercontent.com/fqYJHtyzZzA4vacRzeJoB93QNvA5-mvR-8UB5oVLxdYDSTpfLp_KgYD4IqVGJUgFEJo" />][linkedin]
-[<img align="left" alt="website" width="22px" src="https://e7.pngegg.com/pngimages/639/449/png-clipart-computer-icons-website-icon-text-globe.png" />][website]
+[<img align="left" alt="website" width="22px" src="https://www.uokpl.rs/fpng/f/411-4118599_website-vector-icon.png" />][website]
 
 [twitter]: https://twitter.com/JoeBevan_
 [linkedin]: https://www.linkedin.com/in/joe-bevan-247764174/
