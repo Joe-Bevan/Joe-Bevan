@@ -15,10 +15,10 @@
 <img align="left" alt="C#" width="31px" src="https://www.cnjobs.dk/drupal/sites/default/files/2019-01/csharp-01.png">
 <img align="left" alt="VSCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png">
 <img align="left" alt="VS" width="26px" src="https://www.jing.fm/clipimg/full/234-2348203_visual-studio-2019-icon.png">
-<img align="left" alt="Windows" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Windows_logo_%E2%80%93_2012_%28dark_blue%29.svg/480px-Windows_logo_%E2%80%93_2012_%28dark_blue%29.svg.png">
+<img align="left" alt="Windows" width="26px" src="windowsLogo.png">
 <img align="left" alt="Ubuntu" width="26px" src="https://cdn1.iconfinder.com/data/icons/system-shade-circles/512/ubuntu-512.png">
-<br/>
 <img align="left" alt="Dx11" width="26px" src="Dx11logo.jpg">
+<br/>
 <br/>
 
 ## Connect with me:
