@@ -18,6 +18,8 @@
 <img align="left" alt="Windows" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Windows_logo_%E2%80%93_2012_%28dark_blue%29.svg/480px-Windows_logo_%E2%80%93_2012_%28dark_blue%29.svg.png">
 <img align="left" alt="Ubuntu" width="26px" src="https://cdn1.iconfinder.com/data/icons/system-shade-circles/512/ubuntu-512.png">
 <br/>
+<img align="left" alt="Dx11" width="26px" src="Dx11logo.jpg">
+<br/>
 
 ## Connect with me:
 
