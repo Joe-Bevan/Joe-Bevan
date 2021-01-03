@@ -25,7 +25,7 @@
 
 [<img align="left" alt="Twitter" width="22px" src="twitterIcon.png" />][twitter]
 [<img align="left" alt="Linkedin" width="22px" src="https://lh3.googleusercontent.com/fqYJHtyzZzA4vacRzeJoB93QNvA5-mvR-8UB5oVLxdYDSTpfLp_KgYD4IqVGJUgFEJo" />][linkedin]
-[<img align="left" alt="website" width="22px" src="https://www.uokpl.rs/fpng/f/411-4118599_website-vector-icon.png" />][website]
+[<img align="left" alt="website" width="22px" src="websiteIcon.png" />][website]
 
 [twitter]: https://twitter.com/JoeBevan_
 [linkedin]: https://www.linkedin.com/in/joe-bevan-247764174/
