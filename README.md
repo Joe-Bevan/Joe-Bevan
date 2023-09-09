@@ -1,13 +1,13 @@
 ### Hey, nice to meet you I'm Joe 👋😊
 
 ## Little bit about me: 
-- 💻 At heart I'm a C++ developer, but I work with C# and Javascript occasionally.
-- 📚 I'm a final year student studying Game Engine Programming at Staffordshire University 
-- 🧠 Always interested in learing new skills. Currently teaching myself electronics and embedded systems ⚡
+- 💻 At heart I'm a C++ developer, with a passion for graphics programming (currently D3D12, Vulkan coming soon...)
+- 🎮 Worked on Red Dead Redemption for PS4 + Switch (2023 release) and Age of Empires 4.
+- 🧠 Always interested in learning new skills and gaining a deeper understanding of how things work under the hood.
 - 🎯 Goals: 
-    - Get a deeper fundamental understanding of C++ and look into the assembly language
+    - Get a deeper fundamental understanding of graphics APIs across the board (D3D12, Vulkan, etc.)
     - Undertake more projects and populate my portfolio more
-- 🕹 In my spare time I play video games or edit videos 🎬
+- 🕹 In my spare time I play video games or work on personal projects
 <br>
 
 ## Languages and software:
@@ -27,6 +27,6 @@
 [<img align="left" alt="Linkedin" width="22px" src="https://lh3.googleusercontent.com/fqYJHtyzZzA4vacRzeJoB93QNvA5-mvR-8UB5oVLxdYDSTpfLp_KgYD4IqVGJUgFEJo" />][linkedin]
 [<img align="left" alt="website" width="22px" src="websiteIcon.png" />][website]
 
-[twitter]: https://twitter.com/JoeBevan_
+[twitter]: https://twitter.com/Joe32_t
 [linkedin]: https://www.linkedin.com/in/joe-bevan-247764174/
 [website]: https://joe-bevan.github.io/
