@@ -1,32 +1,18 @@
 ### Hey, nice to meet you I'm Joe 👋😊
 
 ## Little bit about me: 
-- 💻 At heart I'm a C++ developer, with a passion for graphics programming (currently D3D12, Vulkan coming soon...)
-- 🎮 Worked on Red Dead Redemption for PS4 + Switch (2023 release) and Age of Empires 4.
-- 🧠 Always interested in learning new skills and gaining a deeper understanding of how things work under the hood.
-- 🎯 Goals: 
-    - Get a deeper fundamental understanding of graphics APIs across the board (D3D12, Vulkan, etc.)
-    - Undertake more projects and populate my portfolio more
-- 🕹 In my spare time I play video games or work on personal projects
-<br>
+- 💻 Graphics programmer @ Double Eleven
+- 🎯 Experience with all 9th Gen consoles *(PS5, Switch, XBSS/X, PC+Steam Deck with D3D12)*
+- 🎮 Worked on Red Dead Redemption for PS4 + Switch (2023 release), Age of Empires IV, and a few unannounced titles to come 👀
+- 🧠 Keen eye and mindset for performance and optimization
+- 🕹 In my spare time I play video games or work on personal projects about graphics
 
 ## Languages and software:
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
-<img align="left" alt="C#" width="31px" src="https://www.cnjobs.dk/drupal/sites/default/files/2019-01/csharp-01.png">
-<img align="left" alt="VSCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png">
-<img align="left" alt="VS" width="26px" src="https://www.jing.fm/clipimg/full/234-2348203_visual-studio-2019-icon.png">
-<img align="left" alt="Windows" width="26px" src="windowsLogo.png">
-<img align="left" alt="Ubuntu" width="26px" src="https://cdn1.iconfinder.com/data/icons/system-shade-circles/512/ubuntu-512.png">
-<img align="left" alt="Dx11" width="26px" src="Dx11logo.jpg">
-<br/>
-<br/>
-
-## Connect with me:
-
-[<img align="left" alt="Twitter" width="22px" src="twitterIcon.png" />][twitter]
-[<img align="left" alt="Linkedin" width="22px" src="https://lh3.googleusercontent.com/fqYJHtyzZzA4vacRzeJoB93QNvA5-mvR-8UB5oVLxdYDSTpfLp_KgYD4IqVGJUgFEJo" />][linkedin]
-[<img align="left" alt="website" width="22px" src="websiteIcon.png" />][website]
-
-[twitter]: https://twitter.com/Joe32_t
-[linkedin]: https://www.linkedin.com/in/joe-bevan-247764174/
-[website]: https://joe-bevan.github.io/
+<img align="left" alt="Direct3D 12" width="50px" src="https://gpuopen.com/wp-content/uploads/2020/04/DX12_logo_digital_transparent_bg.png">
+<img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
+<img align="left" alt="VS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png">
+<img align="left" alt="RenderDoc" width="50px" src="https://renderdoc.org/fp/logo.svg">
+<img align="left" alt="Nvidia Nsight" width="100px" src="https://docs.nvidia.com/nsight-graphics/2023.4/_static/nvidia-nsight-graphics.png">
+<img align="left" alt="Perforce" width="190px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBd3FeyeUiCY9oIsGCFJ5eI4XKZxAT6aohgg&s">
+<img align="left" alt="Windows" width="50px" src="windowsLogo.png">
+<img align="left" alt="Ubuntu" width="50px" src="https://cdn1.iconfinder.com/data/icons/system-shade-circles/512/ubuntu-512.png">
