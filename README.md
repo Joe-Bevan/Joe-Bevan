@@ -3,7 +3,7 @@
 ## Little bit about me: 
 - 💻 Graphics programmer @ Double Eleven
 - 🎯 Experience with all 9th Gen consoles *(PS5, Switch, XBSS/X, PC+Steam Deck with D3D12)*
-- 🎮 Worked on Red Dead Redemption for PS4 + Switch (2023 release), Age of Empires IV, and a few unannounced titles to come 👀
+- 🎮 Worked on Red Dead Redemption for PS4 + Switch (2023 release) and PC (2024), Age of Empires IV, and a few unannounced titles to come 👀
 - 🧠 Keen eye and mindset for performance and optimization
 - 🕹 In my spare time I play video games or work on personal projects about graphics
 
